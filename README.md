@@ -83,3 +83,10 @@ Root cause included:
 - Offsite redundancy confirmed
 - Manual validation after automation failure
 
+## Integrity Verification
+
+SHA256 (verified identical on Ubuntu and external drive):
+
+D2038DCA67C95BC4E45E6461A71CD120340E9F864297562E0BE00F83596785F8
+
+
