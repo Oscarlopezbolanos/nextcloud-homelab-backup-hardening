@@ -75,3 +75,11 @@ Root cause included:
 - Add offsite replication
 - Test restore procedure
 - Implement monitoring/alerts
+
+## Backup Validation
+
+- Full system archive created: 111GB
+- Archive copied to external Toshiba Canvio (E:\offsite_backups)
+- Offsite redundancy confirmed
+- Manual validation after automation failure
+
